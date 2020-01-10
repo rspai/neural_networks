@@ -1,2 +1,2 @@
 # neural_networks
-Classification using neural networks on Fashion MNIST data
+This project performs classification using machine learning for a multi-class problem. The classification features used from the Fashion MNIST dataset are pre-computed from the digital images of Zalando’s articles. We have classified the images into their specific class using 3 different models of neural networks, namely a simple neural network with a single hidden layer, a neural network with multiple hidden layers and a convolutional neural network. A comparison of the accuracy of the three models of neural networks considered is also provided.
